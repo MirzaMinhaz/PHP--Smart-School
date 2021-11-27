@@ -1,1 +1,1 @@
-# PHP--Smart-School
+# PHP-Smart-School
